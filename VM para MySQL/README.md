@@ -1,6 +1,4 @@
-![UML](img/LogotipoSlashicorp.png)
-
-# FIAP Challange DevOps - Part II
+# Criando uma máquina virtual para banco de dados - MySQL
 
 Em nosso `lab`, para estudar `Linux`, provisionaremos uma VM `Ubuntu-server` no `VirtualBox` com o `Vagrant`.
  
