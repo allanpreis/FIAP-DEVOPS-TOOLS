@@ -1,4 +1,4 @@
-#Criando uma máquina virtual com Vagrant
+# Criando uma máquina virtual com Vagrant
 
 Em nosso `lab`, para estudar `Linux` e `Docker`, provisionaremos uma VM `Ubuntu-server` no `VirtualBox` com o `Vagrant`.
  
